@@ -1,0 +1,69 @@
+{
+  "creatures": [
+    {
+      "name": "Tubarão Boca Grande",
+      "depth": "160",
+      "desc": "É uma espécie de tubarão extremamente rara, que habita águas profundas. Descoberta em 1976, apenas alguns foram vistos desde essa altura, com 68 espécimes capturados ou avistados. Tal como o tubarão-elefante e o tubarão-baleia, alimenta-se por filtração, nadando com a sua enorme boca aberta, filtrando a água para obter Plâncton e medusas. Distingue-se por possuir uma cabeça de grandes dimensões e lábios de aspecto elástico."
+    },
+    {
+      "name": "Caranguejo Aranha Gigante",
+      "depth": "300",
+      "desc": "Conhecido pelos nomes comuns de caranguejo-gigante-japonês, caranguejo-de-pernas-longas e caranguejo-aranha-gigante, é uma espécie de caranguejo, considerada o maior artrópode extante conhecido, que chega a atingir uma envergadura, medida com as patas esticadas, de 3,8 metros e um peso de 19 kg. Ocorre nas águas profundas do Oceano Pacífico, sendo relativamente abundante nas águas do Mar do Japão, onde é objeto de pescaria comercial, embora pouco expressiva."
+    },
+    {
+      "name": "Peixe Lobo",
+      "depth": "500",
+      "desc": " é um peixe marinho da família dos peixes-lobo Anarhichadidae , nativa do Oceano Atlântico Norte. Além de sua aparência única, os peixes-lobo se distinguem pelo anticongelante natural que produzem para manter o sangue em movimento fluido em seu habitat muito frio."
+    },
+    {
+      "name": "Peixe Lua",
+      "depth": "600",
+      "desc": "É uma espécie de peixe ósseo pertencente à família Molidae. Se destaca por sua morfologia, que o difere dos demais peixes. É o peixe ósseo mais pesado do mundo, possui a mesma toxina que os baiacus, e não vive bem em cativeiro. Recentemente, descobriu-se que o que se sabia em relação à sua locomoção estava errado, pois ele é um nadador ativo, não um organismo que vaga passivamente pelo oceano, como se acreditava."
+    },
+    {
+      "name": "Mixina do Pacífico",
+      "depth": "914",
+      "desc": " A mixina do pacifico ou peixe-bruxa do Pacífico tem um corpo longo, semelhante à enguia , mas não está intimamente relacionado às enguias. Comprimentos máximos do corpo de 63 cm foram relatados; comprimento típico na maturidade é de cerca de 42 cm. É marrom escuro, cinza ou vermelho acastanhado, muitas vezes tingido de azul ou roxo."
+    },
+    {
+      "name": "Dragão Negro do Pacífico",
+      "depth": "1000",
+      "desc": "É um predador do fundo do mar que vive nas águas profundas do leste do Oceano Pacífico. Embora passem a maior parte do tempo nessas águas profundas, sabe-se que os dragões negros do Pacífico migram para a superfície, à noite, seguindo sua presa preferida de pequenos crustáceos e outros peixes. Como eles são predadores de emboscada, seus corpos são pretos escuros, e até mesmo seus estômagos são revestidos com tecido preto para bloquear qualquer luz que possa ser produzida por animais bioluminescentes que eles comem."
+    },
+    {
+      "name": "Tubarão Cobra",
+      "depth": "1200",
+      "desc": "Esta espécie, que era considerada extinta, tem cerca de dois metros de comprimento e habita águas em profundidade. O tubarão-cobra é uma das criaturas mais antigas já encontradas vivas nos dias de hoje. Já foram encontrados fósseis deste animal com cerca de 80 milhões de anos."
+    },
+    {
+      "name": "Tubarão Duende",
+      "depth": "1300",
+      "desc": "É uma espécie que habita nas águas profundas, raramente é visto com vida. Tem nariz achatado, corpo rosado e flácido e dentes em forma de pregos. O peixe mede de três a quatro metros de comprimento, na idade adulta. É um animal muito raro de ser encontrado. Desde 1898 foram encontrados 36 espécimes. Pensa-se que esta espécie seja uma das mais antigas de tubarão."
+    },
+    {
+      "name": "Isópode Gigante",
+      "depth":"2100",
+      "desc": "São abundantes nas águas frias e profundas dos oceanos Atlântico, Pacífico e Índico. Bathynomus giganteus , a espécie sobre a qual o generitipo é baseado, é frequentemente considerado o maior isópode do mundo, embora outras espécies comparativamente pouco conhecidas de Bathynomus possam atingir um tamanho semelhante. Os isópodes gigantes são conhecidos por sua semelhança com o piolho comum, ao qual estão relacionados."
+    },
+    {
+      "name": "Lula Gigante",
+      "depth": "2200",
+      "desc": "A lula-gigante é provavelmente a maior espécie de lula existente, e o único membro do gênero Mesonychoteuthis. A lula-gigante é considerada o maior invertebrado em termos de massa do planeta de que se tem conhecimento, podendo ultrapassar os 15 metros de comprimento."
+    },
+    {
+      "name": "Lula-Vampira do Inferno",
+      "depth": "3000",
+      "desc": "É uma espécie de cefalópode que vive nas águas profundas do Atlântico e do Pacífico. É o único cefalópode conhecido pela ciência capaz de viver numa zona com um mínimo de dissolução de oxigênio. Tem um único filamento retrátil sensível, isolado e bipartido, e tem semelhanças com lula e polvo."
+    },
+    {
+      "name": "Polvo Dumbo",
+      "depth": "4000",
+      "desc": " Grimpoteuthis é um gênero de polvo pelágico da família Opisthoteuthidae conhecido pelo nome comum polvo-dumbo. O nome se origina de sua semelhança com o personagem-título do filme da Disney de 1941, Dumbo, com uma barbatana em forma de orelha proeminente que se estende a partir do manto acima de cada olho, Existem 13 espécies reconhecidas no gênero. Suas presas incluem crustáceos, bivalves e copépodes. O tempo médio de vida de várias espécies Grimpoteuthis é de 3 a 5 anos."
+    },
+    {
+      "name": "Caracol das Marianas",
+      "depth": "8100",
+      "desc": " Este peixe pálido, parecido com um girino, atinge até 28,8 cm de comprimento padrão e 160 g  de peso.  Aparentemente, é o principal predador ao longo de certos trechos da Fossa das Marianas, alimentando-se de pequenos crustáceos em um habitat de águas profundas com poucos predadores maiores.  Pseudoliparis swirei são abundantes em seu habitat no fundo do mar e põem ovos relativamente grandes com quase 1 cm de diâmetro."
+    }
+  ]
+}
